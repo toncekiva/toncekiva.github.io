@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV</TITLE>
+<link rel="stylesheet" href="style/style.css"/>
+</head>
+<body>
+		<div id="header">
+			<div id="header1"><img src="images/cv.jpg" alt="Profile picture"></div>
+			<div id="header2">
+				<div class="link"><a href="">Cover Letter</a></div>
+				<div class="link"><a href="about/about.html">About</a></div>
+			</div>
+		</div>
+		<dive id="main">
+			<div id="sidebar">
+				<h1>Iva Toncek</h1>
+		        <div>Email:ivatoncek1@gmail.com</div>
+		        <div>Phone:0832083172</div>
+			</div>
+			<div id="content">
+				<h1>Cover Letter</h1>
+				<p>
+	           Five years of work in a busy office environment have shaped organized individual and a real hard worker, but also a strong team player.
+	           Experienced bachelor in economics with a background in accounts and office admnistration.
+				</p>
+			</div>
+		</div>
+</body>
+</html>
