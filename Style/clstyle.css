@@ -5,3 +5,7 @@ p{
     text-align: left;
     text-style: italic;
 }
+.row > div {
+  background: lightgrey;
+  border: 1px solid grey;
+}
